@@ -4,6 +4,8 @@ A smart, AI-powered personal expense tracker web app built for hackathon submiss
 
 ## 🔗 Live Demo
 [https://shesanths6-coder.github.io/SmartSpend-ai/](https://shesanths6-coder.github.io/SmartSpend-ai/)
+## 🔗 video demo
+https://drive.google.com/file/d/1mHyG8IrpF5xg2czAFVcqkxY-jctN_Od8/view?usp=drivesdk
 
 ## ✨ Features
 - 🔐 Login & Signup
